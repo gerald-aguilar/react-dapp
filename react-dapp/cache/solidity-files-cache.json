@@ -6,7 +6,7 @@
       "contentHash": "54c28c84e5277b35b8c8329ce9755dae",
       "sourceName": "contracts/Greeter.sol",
       "solcConfig": {
-        "version": "0.8.4",
+        "version": "0.8.3",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -42,7 +42,7 @@
       "contentHash": "cc4777addd464ea56fa35b1c45df0591",
       "sourceName": "hardhat/console.sol",
       "solcConfig": {
-        "version": "0.8.4",
+        "version": "0.8.3",
         "settings": {
           "optimizer": {
             "enabled": false,
